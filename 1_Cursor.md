@@ -13,9 +13,9 @@ Cursor 是一款与 OpenAI 合作并且基于 GPT-4 的新一代辅助编程神�
 
 ## 安装 Cursor
 
-Cursor 官网地址：https://www.cursor.so/，当前支持 Mac 、Windows 和 Linux 操作系统。
+Cursor 官网地址：https://www.cursor.so/ ，当前支持 Mac 、Windows 和 Linux 操作系统。
 
-![图片描述](https://doc.shiyanlou.com/courses/uid812252-20230413-1681364878992)
+![图片描述](1_Cursor.assets/uid812252-20230413-1681364878992.png)
 
 Cursor 操作界面与 VSCode 类似：
 
